@@ -1,3 +1,17 @@
+<h1 align="center">Config-Http-Custom</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=YouTube+@shopee_banjarmasin" />
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=pukipli" />
+</p>
+
+<img width="1080" height="1920" alt="Screenshot_20261126-001939" src="https://github.com/user-attachments/assets/8382c456-8b8a-42d9-bb43-7cc93e0963f0" />
+
+<h2 align="center">
+  
+[![Powered By🥇](https://img.shields.io/badge/PoweredBy🥇-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&duration=4500&pause=1000&color=164B63&multiline=true&width=453&height=100&lines=HackerRepo.org+;Cybersecurity+Resources)](https://git.io/typing-svg)
 
 This repository is a comprehensive collection of cybersecurity references, scripts, tools, code, labs, and training resources. It is carefully curated and maintained by [Omar Santos](https://omarsantos.io/).
@@ -29,3 +43,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any inquiries or feedback, please contact [Omar Santos](https://www.linkedin.com/in/santosomar/).
+
+<h1 align="center">Config-Http-Custom</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=YouTube+@shopee_banjarmasin" />
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=pukipli" />
+</p>
+
+<img width="1080" height="1920" alt="Screenshot_20261126-001939" src="https://github.com/user-attachments/assets/8382c456-8b8a-42d9-bb43-7cc93e0963f0" />
+
+<h2 align="center">
+  
+[![Powered By🥇](https://img.shields.io/badge/PoweredBy🥇-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
